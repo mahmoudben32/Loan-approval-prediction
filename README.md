@@ -1,4 +1,4 @@
-# ntroduction:
+# Introduction:
 This project aims to automate the loan qualifying procedure for a company based on information provided by customers while filling out an online application form. The goal is to develop machine learning (ML) models that can predict loan approval, thereby accelerating the decision-making process for determining whether a person is eligible for a loan or not.
 
 # Objectives of the Notebook 📌
@@ -28,7 +28,7 @@ Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1
 Compare the performance of different models to select the best one.
 
 
-#### Technologies Used:
+### Technologies Used:
 Python: Main programming language.
 Pandas: For data manipulation and analysis.
 NumPy: For numerical computations.
